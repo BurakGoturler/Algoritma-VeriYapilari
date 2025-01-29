@@ -3,12 +3,13 @@
 ## 📌 Kaynak
 
 Bu repo, **BTK Akademi** üzerinden alınan **Algoritma ve Veri Yapıları** kursuna ait notları içermektedir.  
-Kurs boyunca edinilen önemli kavramlar ve açıklamalar, sistemli bir şekilde buraya eklenmiştir. Halâ bitmiş değil ve zamanla eklenecektir.
+Kurs boyunca edinilen önemli kavramlar ve açıklamalar, sistemli bir şekilde buraya eklenmiştir.
+Halâ bitmiş değil ve zamanla eklenecektir.
 
 ## 📄 İçerik  
 
 📌 **Algoritma Temelleri**  
-📌 **Veri Yapıları**  
+📌 **Veri Yapıları**   
 📌 **Bağlı Listeler, Yığınlar, Kuyruklar**  - Eklenecek.
 📌 **Ağaçlar ve Graf Yapıları**  - Eklenecek.
 📌 **Sıralama ve Arama Algoritmaları**  - Eklenecek.
